@@ -1,0 +1,6 @@
+cj45sda;bmw m3;2010;suv
+gj32das;audi 14;2015;hatch
+mm30bgd;mercedes benze;2003;suv
+mm31ari;dacia spring;2018;sedan
+sv67dsd;dacia logan;2004;hatch
+sv89mkm;dacia spring;2024;sedan
